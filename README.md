@@ -8,4 +8,5 @@
 - 💬 Ping me about **iOS**, **Android**, **Python-Django**, **CS foudation**, **Design Thinking**
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/lee-qi/), [twitter](https://twitter.com/leefromireland)
 - ⚡️ Fun fact: One shot of vodka knocks me down.....
-- https://www.codewars.com/users/lee197/badges/large
+- Fighting in the Code War ... ![alt text](https://www.codewars.com/users/lee197/badges/micro)
+
